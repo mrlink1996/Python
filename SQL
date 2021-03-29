@@ -1,4 +1,4 @@
-Some SQL queries i have written
+SQL queries i have written
 
 SELECT
     e.first_name || " " || e.last_name employee,
