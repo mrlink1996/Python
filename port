@@ -1,0 +1,3 @@
+git clone https://github.com/mrlink1996/Python.git
+cd Python
+jupyter lab
